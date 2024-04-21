@@ -22,7 +22,7 @@ It provides a framework for evolving efficient tours (schedules) through an iter
     * **Fitness Function:** The objective function that measures the quality of a schedule (e.g., minimizing completion time, maximizing resource utilization, balancing workload).
     * **Constraints:** Rules or limitations governing the scheduling process (e.g., task dependencies, resource availability, time windows).
 
-<!--- # **Installation**
+## **Installation**
 
 1. Clone the repository:
 
@@ -30,10 +30,32 @@ It provides a framework for evolving efficient tours (schedules) through an iter
    git clone https://github.com/kezouke/S24_NIC_Optimizing_Schedule_Creation_Genetic_Algorithm.git
    ```
 
-2. Install dependencies (replace `requirements.txt` with your actual file name if different):
+2. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
---->
-**Additional Notes**
+
+## **Usage**
+
+After you have installed the necessary dependencies, follow these steps to use the `.ipynb` file:
+
+1. Open the `.ipynb` file using Jupyter Notebook or any compatible platform.
+2. Follow the instructions and guidelines provided within the notebook to execute the desired functions or analyses.
+3. Ensure you have the required datasets or inputs available in the appropriate directories or accessible locations as specified in the notebook.
+4. Execute the code cells sequentially, paying attention to any prompts or input requirements.
+5. Review the output, visualizations, or any generated files as indicated within the notebook.
+6. Customize and modify the notebook as needed for your specific use case, adjusting parameters or code blocks as necessary.
+7. Save your work and any modifications made to the notebook for future reference or sharing.
+
+Feel free to reach out if you encounter any issues or have questions regarding the usage of the `.ipynb` file.
+
+## **References:**
+
+* Kaggle competition: [Link](https://www.kaggle.com/competitions/santa-workshop-tour-2019)
+* Genetic algorithm: [Link](https://en.wikipedia.org/wiki/Genetic_algorithm)
+## **Credit:**
+
+* [Kezouke](github.com/kezouke)
+* [Liaaana](github.com/liaaana)
+* [Amine](github.com/Amine-Trabelsi)
