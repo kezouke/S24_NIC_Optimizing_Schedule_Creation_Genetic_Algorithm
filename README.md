@@ -56,6 +56,6 @@ Feel free to reach out if you encounter any issues or have questions regarding t
 * Genetic algorithm: [Link](https://en.wikipedia.org/wiki/Genetic_algorithm)
 ## **Credit:**
 
-* [Kezouke](github.com/kezouke)
-* [Liaaana](github.com/liaaana)
-* [Amine](github.com/Amine-Trabelsi)
+* [Kezouke](https://www.github.com/kezouke)
+* [Liaaana](https://www.github.com/liaaana)
+* [Amine](https://www.github.com/Amine-Trabelsi)
